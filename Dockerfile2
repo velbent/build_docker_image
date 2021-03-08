@@ -1,0 +1,2 @@
+FROM gcr.io/asylo-framework/asylo@sha256:a49749fdb5da76314a3a4cd51ee81938a305d86cc3948f0155539c6eadced2b4
+MAINTAINER velbent <351646937@qq.com>
